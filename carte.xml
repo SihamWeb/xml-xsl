@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="carte.xsl" type="text/xsl" ?>
+
+<carte>
+	<titre>Carte des personnages</titre>
+	<parametres>
+		<dimensions>
+			<width>600</width>
+			<height>600</height>
+		</dimensions>
+		<color>
+			<r>18</r>
+			<g>74</g>
+			<b>87</b>
+			<a>1</a>
+		</color>
+	</parametres>
+	<personnages>
+
+		<!-- 3 nouveaux personnages -->
+
+		<personnage position-x="170" position-y="280">
+			<width>10</width>
+			<height>6</height>
+			<color>
+				#ed04f9
+			</color>
+		</personnage>
+
+		<personnage position-x="550" position-y="60">
+			<width>10</width>
+			<height>6</height>
+			<color>
+				#ed04f9
+			</color>
+		</personnage>
+
+		<personnage position-x="100" position-y="580">
+			<width>10</width>
+			<height>6</height>
+			<color>
+				#ed04f9
+			</color>
+		</personnage>
+
+
+
+
+
+		<personnage position-x="10" position-y="10">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+
+		<personnage position-x="54" position-y="202">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+
+		<personnage position-x="242" position-y="151">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="494" position-y="151">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="36" position-y="68">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="508" position-y="336">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="410" position-y="239">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="376" position-y="539">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="434" position-y="20">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="464" position-y="246">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="40" position-y="61">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="246" position-y="455">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="273" position-y="402">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="339" position-y="422">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="379" position-y="206">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="256" position-y="190">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="316" position-y="59">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="80" position-y="117">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="247" position-y="440">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="335" position-y="329">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="327" position-y="568">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="532" position-y="177">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="297" position-y="10">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="521" position-y="584">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="474" position-y="548">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="300" position-y="436">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="512" position-y="168">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="565" position-y="242">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="403" position-y="24">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="515" position-y="456">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="2" position-y="37">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="254" position-y="102">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+
+
+		<personnage position-x="345" position-y="266">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="249" position-y="234">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="334" position-y="135">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="213" position-y="78">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="83" position-y="118">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="277" position-y="90">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="193" position-y="444">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="23" position-y="265">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="535" position-y="334">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="383" position-y="420">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="305" position-y="24">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="582" position-y="485">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="397" position-y="197">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="592" position-y="429">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="556" position-y="515">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="42" position-y="107">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="426" position-y="66">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="458" position-y="133">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="377" position-y="160">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="307" position-y="575">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="406" position-y="187">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="292" position-y="286">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="484" position-y="484">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+		
+		<personnage position-x="418" position-y="165">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="54" position-y="85">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="176" position-y="65">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="367" position-y="61">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#E3B007
+			</color>
+		</personnage>
+		
+		<personnage position-x="122" position-y="440">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="583" position-y="246">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#07ACE3
+			</color>
+		</personnage>
+		
+		<personnage position-x="267" position-y="60">
+			<width>6</width>
+			<height>6</height>
+			<color>
+				#CD4F38
+			</color>
+		</personnage>
+
+	</personnages>
+	<regions>
+
+	<!-- 4 nouvelles régions -->
+
+		<region position-x="245" position-y="100" border-color="#0026ff" border-width="2">
+			<width>180</width>
+			<height>90</height>
+			<nom position-x="265" position-y="160" color="#FFF">
+				Jungle
+			</nom>
+		</region>
+
+		<region position-x="480" position-y="20" border-color="#0026ff" border-width="2">
+			<width>90</width>
+			<height>90</height>
+			<nom position-x="500" position-y="60" color="#FFF">
+				Canyon
+			</nom>
+		</region>
+
+		<region position-x="405" position-y="360" border-color="#0026ff" border-width="2">
+			<width>170</width>
+			<height>35</height>
+			<nom position-x="425" position-y="380" color="#FFF">
+				Montagnes enneigées
+			</nom>
+		</region>
+
+		<region position-x="10" position-y="400" border-color="#0026ff" border-width="2">
+			<width>50</width>
+			<height>50</height>
+			<nom position-x="20" position-y="420" color="#FFF">
+				Lac rose
+			</nom>
+		</region>
+
+
+
+
+
+
+		<region position-x="10" position-y="10" border-color="#000000" border-width="1">
+			<width>140</width>
+			<height>190</height>
+			<nom position-x="17" position-y="100" color="#FFF">
+				Désert de neige
+			</nom>
+		</region>
+
+		<region position-x="450" position-y="195" border-color="#000000" border-width="1">
+			<width>50</width>
+			<height>50</height>
+			<nom position-x="453" position-y="225" color="#FFF">
+				Oasis
+			</nom>
+		</region>
+
+		<region position-x="435" position-y="475" border-color="#000000" border-width="1">
+			<width>125</width>
+			<height>100</height>
+			<nom position-x="420" position-y="530" color="#FFF">
+				Fausse-sous-écume
+			</nom>
+		</region>
+
+		<region position-x="115" position-y="320" border-color="#000000" border-width="1">
+			<width>200</width>
+			<height>200</height>
+			<nom position-x="135" position-y="425" color="#FFF">
+				Vallées verdoyantes
+			</nom>
+		</region>
+	</regions>
+</carte>
